@@ -1,7 +1,7 @@
 Copy code
 # NightMare - Discord Shell Bot
 
-NightMare is a powerful Discord bot designed for server moderation. It operates through shell-based commands, providing features for managing your Discord server. Please ensure responsible and compliant use of the bot following Discord's Terms of Service and Community Guidelines.
+NightMare is a powerful Discord bot designed for server nuking. It operates through shell-based commands, providing features for nuking server. Please ensure developers are not responsible for the useage of the nuke bot
 
 ## Usage
 
